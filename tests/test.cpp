@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by NIK
 
 #include <gtest/gtest.h>
 #include "ptr.hpp"

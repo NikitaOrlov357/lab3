@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by NIK
 #ifndef INCLUDE_PTR_HPP_
 #define INCLUDE_PTR_HPP_
 
